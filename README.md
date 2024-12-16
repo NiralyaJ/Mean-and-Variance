@@ -1,13 +1,4 @@
 #  Mean and variance of a discrete  distribution
-EX.NO:1
-
-Date:
-
-Name:Niralya.J
-
-Registration No:24003623
-
-# Date:
 
 # Aim : 
 
